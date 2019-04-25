@@ -1,6 +1,6 @@
 full_rebuild: true
 name: Abbas Salimi Zaini
-description: the material experience for jekyll
+description: My personal portfolio.
 destination: jekyllbuild
 url: https://abbas-salimi.github.io/ #place url
 baseurl: #place folder name if site is served in subfolder
